@@ -1,0 +1,45 @@
+.DialogComponent {
+ padding: 20px;
+ background-color: #271c1c;
+ border-radius: 8px;
+ width: 300px;
+ text-align: center;
+ box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+ border: 1px solid #ffffff
+
+}
+
+.message {
+  padding: 15px, 15px, 15px, 15px;
+  font-size: 20px;
+  font-weight: 100;
+  color: #ffffff;
+  margin-bottom: 15px;
+
+}
+
+.message:hover {
+  box-shadow: 2px solid #404084;
+}
+
+.button {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  color: #ffffff;
+  background-color: #0000ff;
+  font-weight: 100;
+  font-size: 15px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(58, 134, 255, 0.6);
+}
+
+
+
+
+.button:hover {
+  background-color: #0000ff7f;
+}
