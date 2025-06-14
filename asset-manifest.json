@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/rating-system/static/css/main.97d04af5.css",
-    "main.js": "/rating-system/static/js/main.3467b183.js",
-    "static/js/453.62af28ef.chunk.js": "/rating-system/static/js/453.62af28ef.chunk.js",
-    "index.html": "/rating-system/index.html",
-    "main.97d04af5.css.map": "/rating-system/static/css/main.97d04af5.css.map",
-    "main.3467b183.js.map": "/rating-system/static/js/main.3467b183.js.map",
-    "453.62af28ef.chunk.js.map": "/rating-system/static/js/453.62af28ef.chunk.js.map"
+    "main.css": "/to-do-web-application/static/css/main.0eb16dc4.css",
+    "main.js": "/to-do-web-application/static/js/main.5ddec7ae.js",
+    "static/media/background image.gif": "/to-do-web-application/static/media/background image.9816908ff29fb93cec94.gif",
+    "index.html": "/to-do-web-application/index.html",
+    "main.0eb16dc4.css.map": "/to-do-web-application/static/css/main.0eb16dc4.css.map",
+    "main.5ddec7ae.js.map": "/to-do-web-application/static/js/main.5ddec7ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d04af5.css",
-    "static/js/main.3467b183.js"
+    "static/css/main.0eb16dc4.css",
+    "static/js/main.5ddec7ae.js"
   ]
 }
